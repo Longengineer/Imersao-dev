@@ -26,18 +26,9 @@ de grandes filósofos como René Descartes, Friedrich Nietzsche, Baruch Spinoza 
 
 ## 🚀 Como Executar o Projeto
 
-Para visualizar este projeto em sua máquina, siga os passos abaixo:
+Para visualizar este projeto em sua máquina, acesse o link abaixo:
 
-1.  **Clone o repositório** (se estiver no GitHub):
-    ```bash
-    git clone https:[//github.com/seu-usuario/seu-repositorio.git](https://github.com/Longengineer)
-    ```
-
-2.  **Navegue até o diretório do projeto**:
+  **Navegue até o diretório do projeto**:
     ```bash
     [cd imersao-dev](https://longengineer.github.io/Imersao-dev/)
     ```
-
-3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
-
-E pronto! A aplicação estará funcionando localmente.
