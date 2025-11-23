@@ -28,8 +28,6 @@ de grandes filósofos como René Descartes, Friedrich Nietzsche, Baruch Spinoza 
 ## 🚀 Como Executar o Projeto
 
 Para visualizar este projeto em sua máquina, acesse o link abaixo:
-
-    ```bash
     
     https://longengineer.github.io/Imersao-dev/
     
