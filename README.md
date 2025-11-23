@@ -30,5 +30,5 @@ Para visualizar este projeto em sua máquina, acesse o link abaixo:
 
   **Navegue até o diretório do projeto**:
     ```bash
-    [cd imersao-dev](https://longengineer.github.io/Imersao-dev/)
+    (https://longengineer.github.io/Imersao-dev/)
     ```
