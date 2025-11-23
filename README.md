@@ -1,7 +1,5 @@
 # Base de Conhecimento: Filosofia para Desenvolvedores
 
-!Badge
-
 ## 📖 Descrição do Projeto
 Este projeto é uma "Base de Conhecimento" interativa desenvolvida como parte da Imersão Dev da Alura. 
 A aplicação web apresenta perfis de diversos filósofos, desde os pré-socráticos até os contemporâneos, 
