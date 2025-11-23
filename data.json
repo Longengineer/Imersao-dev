@@ -1,0 +1,356 @@
+[
+  {
+    "nome": "Thales",
+    "descricao": "Thales de Mileto foi um filósofo, matemático e astrônomo grego pré-socrático, considerado o primeiro filósofo da tradição ocidental.",
+    "data_criacao": "624 a.C.",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Tales_de_Mileto",
+    "tags": [
+      "filosofia",
+      "matemática",
+      "astronomia"
+    ]
+  },
+  {
+    "nome": "Sócrates",
+    "descricao": "Sócrates foi um filósofo grego considerado um dos fundadores da filosofia ocidental, famoso por seu método de diálogo e questionamento, conhecido como método socrático.",
+    "data_criacao": "470 a.C.",
+    "link_oficial": "https://pt.wikipedia.org/wiki/S%C3%B3crates",
+    "tags": [
+      "filosofia",
+      "ética",
+      "método socrático"
+    ]
+  },
+  {
+    "nome": "Platão",
+    "descricao": "Platão foi um dos mais importantes filósofos da Grécia Antiga e discípulo de Sócrates.",
+    "data_criacao": "427 a.C.",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Plat%C3%A3o",
+    "tags": [
+      "filosofia",
+      "idealismo",
+      "academia"
+    ]
+  },
+  {
+    "nome": "Aristóteles",
+    "descricao": "Aristóteles foi um dos maiores filósofos da Grécia Antiga e discípulo de Platão. Ele nasceu em Estagira, na Macedônia.",
+    "data_criacao": "384 a.C.",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Arist%C3%B3teles",
+    "tags": [
+      "filosofia",
+      "lógica",
+      "ciência"
+    ]
+  },
+  {
+    "nome": "Epicuro",
+    "descricao": "Epicuro foi um filósofo grego do período helenístico, nascido na ilha de Samos em Atenas. Ele fundou a escola chamada Jardim de Epicuro, onde ensinava uma filosofia voltada para a busca da felicidade e da tranquilidade da alma.",
+    "data_criacao": "341 a.C.",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Epicuro_de_Samos",
+    "tags": [
+      "filosofia",
+      "hedonismo",
+      "ética"
+    ]
+  },
+  {
+    "nome": "Immanuel Kant",
+    "descricao": "O Imperativo Categórico como mecanismo de validação estática. A máxima de uma ação (ou módulo) deve ser universalizável (regras de linting e código limpo).",
+    "data_criacao": "1724",
+    "link": "https://pt.wikipedia.org/wiki/Immanuel_Kant",
+    "tags": [
+      "Ética",
+      "Racionalismo",
+      "Validação Estática",
+      "Constraint Enforcement"
+    ]
+  },
+  {
+    "nome": "René Descartes",
+    "descricao": "Dúvida Metódica aplicada como estratégia de validação 'Zero Trust', onde cada suposição, dependência ou componente é testado rigorosamente antes de ser aceito.",
+    "data_criacao": "1596",
+    "link": "https://pt.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "tags": [
+      "Racionalismo",
+      "Metodologia",
+      "Zero Trust",
+      "Validação"
+    ]
+  },
+  {
+    "nome": "Friedrich Nietzsche",
+    "descricao": "O Perspectivismo como modelo de arquitetura multi-tenant onde diferentes 'perspectivas' (usuários/funções) exigem representações de dados e interfaces customizadas (View Models).",
+    "data_criacao": "1844",
+    "link": "https://pt.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "tags": [
+      "Pós-Estruturalismo",
+      "Arquitetura",
+      "Multi-tenant",
+      "Perspectivismo"
+    ]
+  },
+  {
+    "nome": "Gottfried Wilhelm Leibniz",
+    "descricao": "Foi um filósofo e matemático alemão, considerado um dos grandes pensadores do racionalismo moderno. Leibniz também fez contribuições significativas para a lógica, a metafísica, filosofia da linguagem e foi o desenvolvedor do código binário.",
+    "data_criacao": "1646",
+    "link": "https://pt.wikipedia.org/wiki/Gottfried_Leibniz",
+    "tags": [
+      "filosofia",
+      "matemática",
+      "lógica"
+    ]
+  },
+  {
+    "nome": "Ludwig Wittgenstein",
+    "descricao": "A teoria dos 'Jogos de Linguagem' para a implementação de DSLs (Domain Specific Languages) e o mapeamento de Contextos Limitados (Bounded Contexts) em arquitetura DDD.",
+    "data_criacao": "1889",
+    "link": "https://pt.wikipedia.org/wiki/Ludwig_Wittgenstein",
+    "tags": [
+      "Filosofia da Linguagem",
+      "DSL",
+      "Context Bounded",
+      "Lógica"
+    ]
+  },
+  {
+    "nome": "Baruch Spinoza",
+    "descricao": "Monismo da Substância: Arquitetura que postula uma única fonte de verdade (Single Source of Truth) para o estado global do sistema, minimizando inconsistências (State Management).",
+    "data_criacao": "1632",
+    "link": "https://pt.wikipedia.org/wiki/Baruch_Spinoza",
+    "tags": [
+      "Racionalismo",
+      "Arquitetura",
+      "Single Source of Truth",
+      "State Management"
+    ]
+  },
+  {
+    "nome": "David Hume",
+    "descricao": "Empirismo e Indução Cética: Metodologia que prioriza a observabilidade e testes baseados em dados empíricos (testes A/B, testes de carga) em detrimento de deduções abstratas.",
+    "data_criacao": "1711",
+    "link": "https://pt.wikipedia.org/wiki/David_Hume",
+    "tags": [
+      "Empirismo",
+      "Testes",
+      "Observabilidade",
+      "Data-Driven"
+    ]
+  },
+  {
+    "nome": "Georg Hegel",
+    "descricao": "Dialética: Processo iterativo de refinamento do código, onde uma implementação (tese) gera feedback (antítese) resultando em uma melhoria (síntese) em sprints Ágeis.",
+    "data_criacao": "1770",
+    "link": "https://pt.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+    "tags": [
+      "Idealismo",
+      "Metodologia Ágil",
+      "Iteração",
+      "Refinamento"
+    ]
+  },
+  {
+    "nome": "John Locke",
+    "descricao": "Tabula Rasa: Inicialização de componentes de forma 'stateless', pressupondo um estado inicial limpo e vazio, sendo preenchido apenas por entradas válidas em tempo de execução.",
+    "data_criacao": "1632",
+    "link": "https://pt.wikipedia.org/wiki/John_Locke",
+    "tags": [
+      "Empirismo",
+      "State Management",
+      "Stateless",
+      "Inicialização"
+    ]
+  },
+  {
+    "nome": "Arthur Schopenhauer",
+    "descricao": "A Vontade (Will) como Força Motriz: Mecanismo de alocação de recursos e gerenciamento de concorrência onde a demanda dita o throttling e a priorização de tarefas.",
+    "data_criacao": "1788",
+    "link": "https://pt.wikipedia.org/wiki/Arthur_Schopenhauer",
+    "tags": [
+      "Pessimismo",
+      "Recursos",
+      "Throttling",
+      "Gerenciamento"
+    ]
+  },
+  {
+    "nome": "Michel Foucault",
+    "descricao": "Relação Poder/Saber: Definição de modelos de controle de acesso (RBAC/ABAC) e políticas de segurança, onde o conhecimento é intrinsecamente ligado às permissões e restrições.",
+    "data_criacao": "1926",
+    "link": "https://pt.wikipedia.org/wiki/Michel_Foucault",
+    "tags": [
+      "Pós-estruturalismo",
+      "Segurança",
+      "Access Control",
+      "Autoridade"
+    ]
+  },
+  {
+    "nome": "Jean-Jacques Rousseau",
+    "descricao": "Vontade Geral: O uso de algoritmos de consenso (Paxos, Raft) para garantir que o estado do sistema distribuído seja aceito pela maioria dos nós participantes e validado.",
+    "data_criacao": "1712",
+    "link": "https://pt.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+    "tags": [
+      "Contratualismo",
+      "Consenso",
+      "Sistemas Distribuídos",
+      "Coordenação"
+    ]
+  },
+  {
+    "nome": "Albert Camus",
+    "descricao": "Absurdismo: Filosofia de design focada em Engenharia de Resiliência; o sistema deve operar e tolerar a falha inevitável e imprevisível de componentes ('o absurdo da existência').",
+    "data_criacao": "1913",
+    "link": "https://pt.wikipedia.org/wiki/Albert_Camus",
+    "tags": [
+      "Existencialismo",
+      "Resiliência",
+      "Tolerância a Falhas",
+      "Design Patterns"
+    ]
+  },
+  {
+    "nome": "Simone de Beauvoir",
+    "descricao": "Ética da Ambiguidade: A gestão das compensações (trade-offs) no design de software, reconhecendo a ambiguidade inerente entre performance, segurança e usabilidade.",
+    "data_criacao": "1908",
+    "link": "https://pt.wikipedia.org/wiki/Simone_de_Beauvoir",
+    "tags": [
+      "Existencialismo",
+      "Trade-offs",
+      "Design Ethics",
+      "Decisão"
+    ]
+  },
+  {
+    "nome": "Karl Marx",
+    "descricao": "Materialismo Histórico: A utilização de sistemas de controle de versão (Git) para rastrear a evolução histórica do código e gerenciar dependências e ramificações (branches).",
+    "data_criacao": "1818",
+    "link": "https://pt.wikipedia.org/wiki/Karl_Marx",
+    "tags": [
+      "Economia Política",
+      "Version Control",
+      "Histórico",
+      "Branching Strategy"
+    ]
+  },
+  {
+    "nome": "Ayn Rand",
+    "descricao": "Objectivismo: Design 'Contract-First', onde a definição estrita da API e do contrato de serviço (o 'objetivo') precede a implementação, garantindo clareza e previsibilidade.",
+    "data_criacao": "1905",
+    "link": "https://pt.wikipedia.org/wiki/Ayn_Rand",
+    "tags": [
+      "Objetivismo",
+      "API Design",
+      "Contract-First",
+      "Especificação"
+    ]
+  },
+  {
+    "nome": "C. S. Peirce",
+    "descricao": "Abdução: Técnica de Root Cause Analysis (RCA) onde, a partir de observações (logs/métricas), se postula a explicação mais provável para o erro ou bug.",
+    "data_criacao": "1839",
+    "link": "https://pt.wikipedia.org/wiki/Charles_Sanders_Peirce",
+    "tags": [
+      "Pragmatismo",
+      "Lógica",
+      "Root Cause Analysis",
+      "Debugging"
+    ]
+  },
+  {
+    "nome": "William James",
+    "descricao": "Pragmatismo: Abordagem de desenvolvimento focada no resultado útil (MVP - Minimum Viable Product), onde a validade de uma funcionalidade é determinada por sua utilidade prática no mundo real.",
+    "data_criacao": "1842",
+    "link": "https://pt.wikipedia.org/wiki/William_James",
+    "tags": [
+      "Pragmatismo",
+      "MVP",
+      "Outcome-Driven",
+      "Utilitarismo"
+    ]
+  },
+  {
+    "nome": "Zeno de Cítio",
+    "descricao": "Paradoxos: Identificação e tratamento de casos extremos e paradoxos lógicos, frequentemente ligados a problemas de concorrência, limites matemáticos (Overflow) e race conditions.",
+    "data_criacao": "334 a.C.",
+    "link": "https://pt.wikipedia.org/wiki/Zen%C3%A3o_de_C%C3%ADtio",
+    "tags": [
+      "Estoicismo",
+      "Edge Cases",
+      "Concorrência",
+      "Lógica"
+    ]
+  },
+  {
+    "nome": "Hipátia de Alexandria",
+    "descricao": "Raciocínio Sistemático: Aplicação de métodos de prova matemática (Formal Verification) para garantir a corretude e segurança de algoritmos críticos ou protocolos criptográficos.",
+    "data_criacao": "350",
+    "link": "https://pt.wikipedia.org/wiki/Hip%C3%A1tia",
+    "tags": [
+      "Neoplatonismo",
+      "Formal Verification",
+      "Matemática",
+      "Provas Lógicas"
+    ]
+  },
+  {
+    "nome": "Thomas Hobbes",
+    "descricao": "Contrato Social: O estabelecimento de um sistema de governança centralizado (Leviatã/Monolítico) para impor políticas de segurança rígidas e regras de conformidade obrigatórias.",
+    "data_criacao": "1588",
+    "link": "https://pt.wikipedia.org/wiki/Thomas_Hobbes",
+    "tags": [
+      "Contratualismo",
+      "Governança",
+      "Segurança",
+      "Arquitetura Monolítica"
+    ]
+  },
+  {
+    "nome": "Maurice Merleau-Ponty",
+    "descricao": "Fenomenologia da Percepção: O foco no mapeamento da experiência do usuário (UX) e na interação corpórea (design responsivo, feedback tátil) como centro do design de interfaces.",
+    "data_criacao": "1908",
+    "link": "https://pt.wikipedia.org/wiki/Maurice_Merleau-Ponty",
+    "tags": [
+      "Fenomenologia",
+      "UX Design",
+      "Interação",
+      "Usabilidade"
+    ]
+  },
+  {
+    "nome": "Gilles Deleuze",
+    "descricao": "Rizoma: Estrutura de rede descentralizada e não hierárquica (arquitetura mesh ou redes P2P), onde as conexões são múltiplas, horizontais e não seguem uma linha lógica central.",
+    "data_criacao": "1925",
+    "link": "https://pt.wikipedia.org/wiki/Gilles_Deleuze",
+    "tags": [
+      "Pós-estruturalismo",
+      "Redes P2P",
+      "Arquitetura Mesh",
+      "Descentralização"
+    ]
+  },
+  {
+    "nome": "Alain Badiou",
+    "descricao": "O Evento: Representa a mudança crítica de estado ('deploy crítico') que redefine as regras do sistema, como uma migração de banco de dados ou grande refatoração que altera o 'ser' do sistema.",
+    "data_criacao": "1937",
+    "link": "https://pt.wikipedia.org/wiki/Alain_Badiou",
+    "tags": [
+      "Filosofia Contemporânea",
+      "State Transition",
+      "Refatoração",
+      "Mudança Crítica"
+    ]
+  },
+  {
+    "nome": "Jürgen Habermas",
+    "descricao": "Ação Comunicativa: O design de protocolos de comunicação robustos e transparentes entre serviços (ex: gRPC, HTTP) visando o entendimento mútuo e coordenação eficaz (Inter-service Communication).",
+    "data_criacao": "1929",
+    "link": "https://pt.wikipedia.org/wiki/J%C3%BCrgen_Habermas",
+    "tags": [
+      "Teoria Crítica",
+      "Protocolos",
+      "Comunicação",
+      "Coordenação"
+    ]
+  }
+]
