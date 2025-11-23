@@ -30,7 +30,7 @@ Para visualizar este projeto em sua máquina, siga os passos abaixo:
 
 1.  **Clone o repositório** (se estiver no GitHub):
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https:[//github.com/seu-usuario/seu-repositorio.git](https://github.com/Longengineer)
     ```
 
 2.  **Navegue até o diretório do projeto**:
