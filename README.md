@@ -31,9 +31,7 @@ Para visualizar este projeto em sua máquina, acesse o link abaixo:
 
 **Clone o repositório** (se estiver no GitHub):
     ```bash
-    git clone (https://longengineer.github.io/Imersao-dev/)
-    ```
     
-E pronto! A aplicação estará funcionando localmente.
-
+    https://longengineer.github.io/Imersao-dev/
+    ```
 ---
