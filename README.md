@@ -1,7 +1,8 @@
 # Base de Conhecimento: Filosofia para Desenvolvedores
 
-## 📖 Descrição do Projeto
+!Badge
 
+## 📖 Descrição do Projeto
 Este projeto é uma "Base de Conhecimento" interativa desenvolvida como parte da Imersão Dev da Alura. 
 A aplicação web apresenta perfis de diversos filósofos, desde os pré-socráticos até os contemporâneos, 
 mas com uma abordagem única: suas ideias e conceitos são reinterpretados como analogias para princípios, 
@@ -36,11 +37,9 @@ Para visualizar este projeto em sua máquina, siga os passos abaixo:
 
 2.  **Navegue até o diretório do projeto**:
     ```bash
-    cd imersao-dev
+    [cd imersao-dev](https://longengineer.github.io/Imersao-dev/)
     ```
 
 3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
 
 E pronto! A aplicação estará funcionando localmente.
-
----
